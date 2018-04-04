@@ -5,4 +5,4 @@ This repo contain utils scripts, few docs that explain tricks & tips for porting
 openRAP firmware base image (openRAP OS based on Linux) was ported into Intel miniPC and Asus Tinker boards, while creating the util scrips and docs.
 
 # What is openRAP ?
-Well, you shoud be ashmed to ask this, point your borowser ar openrap.io
+Well, you shoud be ashmed to ask this, point your borowser to openrap.io
